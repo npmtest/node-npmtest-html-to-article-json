@@ -1,0 +1,48 @@
+<svg height="718" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="718" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">8 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ html-to-article-json@1.20.1 </tspan>
+<tspan x="10" y="90">  ├── block-elements@1.1.0 </tspan>
+<tspan x="10" y="106">  ├─┬ embedly-url@1.0.0 </tspan>
+<tspan x="10" y="122">  │ └── he@0.5.0 </tspan>
+<tspan x="10" y="138">  ├─┬ embeds@2.11.5 </tspan>
+<tspan x="10" y="154">  │ ├─┬ deku@1.0.0 </tspan>
+<tspan x="10" y="170">  │ │ ├── component-emitter@1.2.0 </tspan>
+<tspan x="10" y="186">  │ │ ├── component-raf@1.2.0 </tspan>
+<tspan x="10" y="202">  │ │ ├── component-type@1.2.0 </tspan>
+<tspan x="10" y="218">  │ │ ├── fast.js@0.1.1 </tspan>
+<tspan x="10" y="234">  │ │ ├── get-uid@1.0.1 </tspan>
+<tspan x="10" y="250">  │ │ ├── is-dom@1.0.5 </tspan>
+<tspan x="10" y="266">  │ │ ├── is-svg-attribute@1.0.2 </tspan>
+<tspan x="10" y="282">  │ │ ├── is-svg-element@1.0.1 </tspan>
+<tspan x="10" y="298">  │ │ ├── object-defaults@0.1.0 </tspan>
+<tspan x="10" y="314">  │ │ └── object-path@0.9.2 </tspan>
+<tspan x="10" y="330">  │ ├── lodash.foreach@4.5.0 </tspan>
+<tspan x="10" y="346">  │ └─┬ virtual-element@1.2.0 </tspan>
+<tspan x="10" y="362">  │   ├── array-flatten@1.1.1 </tspan>
+<tspan x="10" y="378">  │   └── sliced@0.0.5 </tspan>
+<tspan x="10" y="394">  ├─┬ es6-set@0.1.5 </tspan>
+<tspan x="10" y="410">  │ ├── d@1.0.0 </tspan>
+<tspan x="10" y="426">  │ ├── es5-ext@0.10.15 </tspan>
+<tspan x="10" y="442">  │ ├── es6-iterator@2.0.1 </tspan>
+<tspan x="10" y="458">  │ ├── es6-symbol@3.1.1 </tspan>
+<tspan x="10" y="474">  │ └── event-emitter@0.3.5 </tspan>
+<tspan x="10" y="490">  ├── generate-function@2.0.0 </tspan>
+<tspan x="10" y="506">  ├── get-youtube-id@1.0.0 </tspan>
+<tspan x="10" y="522">  ├── lodash.find@4.6.0 </tspan>
+<tspan x="10" y="538">  ├── lodash.last@3.0.0 </tspan>
+<tspan x="10" y="554">  ├── lodash.map@4.6.0 </tspan>
+<tspan x="10" y="570">  ├── lodash.startswith@4.2.1 </tspan>
+<tspan x="10" y="586">  ├── lodash.values@4.3.0 </tspan>
+<tspan x="10" y="602">  └─┬ query-dom@3.4.3 </tspan>
+<tspan x="10" y="618">    ├── camelcase-css@1.0.1 </tspan>
+<tspan x="10" y="634">    ├─┬ cssauron@1.4.0 </tspan>
+<tspan x="10" y="650">    │ └── through@2.3.8 </tspan>
+<tspan x="10" y="666">    ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="682">    ├── parse5@2.2.3 </tspan>
+<tspan x="10" y="698">    └── to-fast-properties@1.0.2</tspan>
+</text>
+</svg>
