@@ -1,6 +1,6 @@
 # npmtest-html-to-article-json
 
-#### test coverage for  [html-to-article-json (v1.20.1)](https://github.com/micnews/html-to-article-json#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-html-to-article-json.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-html-to-article-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-html-to-article-json.svg)](https://travis-ci.org/npmtest/node-npmtest-html-to-article-json)
+#### basic test coverage for  [html-to-article-json (v1.20.1)](https://github.com/micnews/html-to-article-json#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-html-to-article-json.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-html-to-article-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-html-to-article-json.svg)](https://travis-ci.org/npmtest/node-npmtest-html-to-article-json)
 
 #### Converting HTML to article-json
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-html-to-article-json/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-html-to-article-json/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-html-to-article-json/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-html-to-article-json/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-html-to-article-json/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-html-to-article-json/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-html-to-article-json/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-html-to-article-json/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-html-to-article-json/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-html-to-article-json/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-html-to-article-json/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-html-to-article-json/build/coverage.html/index.html)
 
@@ -125,7 +125,8 @@
         "test:coverage": "nyc babel-tape-runner test/*-test.js",
         "test:node": "babel-tape-runner test/*-test.js"
     },
-    "version": "1.20.1"
+    "version": "1.20.1",
+    "bin": {}
 }
 ```
 
